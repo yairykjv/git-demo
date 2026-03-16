@@ -8,6 +8,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		System.out.println("hello from branch 2 considering branch 1");
+		System.out.println("bed commit");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
